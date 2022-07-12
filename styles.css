@@ -1,0 +1,28 @@
+body {
+    background-color: #ffc897; 
+}
+
+.title,
+.recipe,
+.sub {
+    text-align: center;
+}
+
+.gif,
+.jpg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home-button {
+    background-color: #f8a963;
+    padding: 20px;
+    border: none;
+}
+
+/* just to see how the content is laid out
+* {
+    border: 2px solid red;
+}
+*/
